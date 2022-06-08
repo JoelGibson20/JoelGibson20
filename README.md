@@ -31,7 +31,7 @@
   </div>
 
 📊 To conclude here are some stats counters I found cool:
-  <div class="stats">
+  <div class="stats" align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelGibson20&theme=dark&background=5c5c5c)](https://git.io/streak-stats)
  
