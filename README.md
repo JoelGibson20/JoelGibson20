@@ -31,9 +31,14 @@
   </div>
 
 📊 To conclude here are some stats counters I found cool:
-  
+  <div class="stats">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelGibson20&theme=dark&background=5c5c5c)](https://git.io/streak-stats)
+ 
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelGibson20&layout=compact&theme=vision-friendly-dark&count_private=true&show_icons=true&bg_color=5c5c5c&title_color=fa8a00)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
   <img src="https://komarev.com/ghpvc/?username=JoelGibson20&style=for-the-badge&color=fa8a00" width="150" height="40" alt=""/>
+ </div>
 
