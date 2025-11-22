@@ -3,34 +3,27 @@
 
  <h3> About me: </h3>
   
- 👨‍💻I'm a Computer Science graduate from Newcastle University, having completed my BSc in 2022.
+👨‍💻 I'm a Computer Science graduate from Newcastle University, having completed my BSc in 2022.
  <div class="newcastle uni" align="center">
- <img src="https://logos-download.com/wp-content/uploads/2017/11/Newcastle_University_logo.png" alt="Newcastle University Logo" width="240" height="80">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/University_of_Newcastle_Coat_of_Arms.svg" alt="Newcastle University Logo" width="128" height="150">
   </div>
- 
-👍 I am a big fan of **Python** and **Java**, and I dipped my toes into **JavaScript** and **Solidity** with my [dissertation](https://github.com/JoelGibson20/SITApreferencesManagement).
-<div class="languagesILike" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="80" height="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="80" height="80">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="80" height="80">
-<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="Solidity Logo" width="80" height="80">
+
+📝 For my [dissertation]((https://github.com/JoelGibson20/SITApreferencesManagement)) I dipped my toes into **JavaScript**, **Solidity**, and **React**, creating a decentralised application to manage and store user's privacy preferences in a smart building.
+ <div class="languagesILike" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="JavaScript Logo" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity Logo" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="React Logo" width="80" height="80">
+ </div>
+
+🤖 Since leaving university I have worked as an Android developer, so I'm a big fan of **Kotlin**, **Jetpack Compose**, and **Android Studio**.
+<div class="android" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Kotlin_icon_%282021-present%29.svg" alt="Kotlin logo" width="80" height="80">
+<img src="https://logo.svgcdn.com/devicon/jetpackcompose-original.png" alt="Jetpack Compose logo" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio logo" width="80" height="80">
 </div>
 
 
-📚 Currently I am learning MySQL and MongoDB.
-<div class="languagesImLearning" align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="80" height="80">
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="80" height="80">
-                                              
-</div>
-
-
-📆 My future plans are to learn more about Android Studio and Full Stack JavaScript.
-<div class="futurePlans" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio Logo" width="130" height="130">
-  </div>
-
-📊 To conclude here are some stats counters I found cool:
+📊 Here are some stats counters I found cool:
   <div class="stats" align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelGibson20&theme=dark&background=5c5c5c)](https://git.io/streak-stats)
